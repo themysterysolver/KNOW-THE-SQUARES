@@ -9,3 +9,12 @@ body{
 h1{
     color: #A67C52
 }
+#clock{
+    font-size:10vh;
+    color:#a6611b
+}
+#start,#restart{
+    background-color: #b8580a;
+    border-color: #b58863;
+    color: white; 
+}
